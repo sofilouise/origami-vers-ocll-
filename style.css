@@ -51,10 +51,10 @@ a:active{
 
 .bodyimg h4{
   color:#f2f2f2;
-  font-size: 20px;
+  font-size: 25px;
   width: 675px;
   position: absolute;
-  top:47%;
+  top:45%;
   left:24%;  transform: translate(-20%, 800%);
 }
 .grid{
