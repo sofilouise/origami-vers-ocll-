@@ -54,8 +54,8 @@ a:active{
   font-size: 20px;
   width: 675px;
   position: absolute;
-  top:35%;
-  left:25%;  transform: translate(-20%, 800%);
+  top:47%;
+  left:24%;  transform: translate(-20%, 800%);
 }
 .grid{
   display: flex;
